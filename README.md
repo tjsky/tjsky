@@ -23,9 +23,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Workers 添加自定义域名 解决部分区域网络无法访问的问题](https://www.tjsky.net/?p=430)
 - [注册freenom免费域名的方法](https://www.tjsky.net/?p=415)
 - [GitHub 个人主页美化](https://www.tjsky.net/?p=405)
 - [Windows 11 Android 子系统 WSA 安装APP软件APK文件方式教程](https://www.tjsky.net/?p=401)
 - [解决Win11安卓子系统烦人的提示“VirtWifi的连接受限”](https://www.tjsky.net/?p=397)
-- [Windows Android 子系统 WSA 代理设置方法教程](https://www.tjsky.net/?p=391)
 <!-- BLOG-POST-LIST:END -->
