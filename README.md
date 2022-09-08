@@ -23,7 +23,7 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [PikPak移动宽带下载限速破解](https://www.tjsky.net/?p=433)
+- [PikPak移动宽带下载限速破解方法教程](https://www.tjsky.net/?p=433)
 - [Cloudflare Workers 添加自定义域名 解决部分区域网络无法访问的问题](https://www.tjsky.net/?p=430)
 - [注册freenom免费域名的方法](https://www.tjsky.net/?p=415)
 - [GitHub 个人主页美化](https://www.tjsky.net/?p=405)
