@@ -23,9 +23,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [本地部署 AI作画工具 stable-diffusion-webui 并替换模型 解决二次元NSFW问题](https://www.tjsky.net/?p=457)
 - [网页状态监控系统 Upptime 的一些高阶用法](https://www.tjsky.net/?p=456)
 - [用GitHub Actions 搭建网页状态监控系统 Upptime](https://www.tjsky.net/?p=444)
 - [PikPak移动宽带下载限速破解方法教程](https://www.tjsky.net/?p=433)
 - [Cloudflare Workers 添加自定义域名 解决部分区域网络无法访问的问题](https://www.tjsky.net/?p=430)
-- [注册freenom免费域名的方法](https://www.tjsky.net/?p=415)
 <!-- BLOG-POST-LIST:END -->
