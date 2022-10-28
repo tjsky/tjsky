@@ -1,6 +1,7 @@
 name: Blog Posts
 
 on:
+  workflow_dispatch:
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
