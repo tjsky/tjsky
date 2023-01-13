@@ -23,9 +23,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [DNS 劫持无需第三方软件的解决方式，全平台 DoH DoT 设置教程](https://www.tjsky.net/tutorial/539?pk_campaign=feed&pk_kwd=dns-%25e5%258a%25ab%25e6%258c%2581%25e6%2597%25a0%25e9%259c%2580%25e7%25ac%25ac%25e4%25b8%2589%25e6%2596%25b9%25e8%25bd%25af%25e4%25bb%25b6%25e7%259a%2584%25e8%25a7%25a3%25e5%2586%25b3%25e6%2596%25b9%25e5%25bc%258f%25ef%25bc%258c%25e5%2585%25a8%25e5%25b9%25b3%25e5%258f%25b0-doh-dot-%25e8%25ae%25be%25e7%25bd%25ae)
 - [windows系统下部署安装alist教程](https://www.tjsky.net/tutorial/534?pk_campaign=feed&pk_kwd=windows-%25e7%25b3%25bb%25e7%25bb%259f%25e4%25b8%258b%25e9%2583%25a8%25e7%25bd%25b2%25e5%25ae%2589%25e8%25a3%2585%25e7%25bd%2591%25e7%259b%2598%25e7%259b%25ae%25e5%25bd%2595%25e7%25a8%258b%25e5%25ba%258f-alist)
 - [利用 Github Action 实现自动贴吧签到](https://www.tjsky.net/tutorial/526?pk_campaign=feed&pk_kwd=%25e5%2588%25a9%25e7%2594%25a8-github-action-%25e5%25ae%259e%25e7%258e%25b0%25e8%2587%25aa%25e5%258a%25a8%25e8%25b4%25b4%25e5%2590%25a7%25e7%25ad%25be%25e5%2588%25b0)
 - [一行代码让网页自动变黑白&lpar;哀悼模式&rpar;](https://www.tjsky.net/tutorial/511?pk_campaign=feed&pk_kwd=%25e4%25b8%2580%25e8%25a1%258c%25e4%25bb%25a3%25e7%25a0%2581%25e8%25ae%25a9%25e7%25bd%2591%25e9%25a1%25b5%25e8%2587%25aa%25e5%258a%25a8%25e5%258f%2598%25e9%25bb%2591%25e7%2599%25bd%25e5%2593%2580%25e6%2582%25bc%25e6%25a8%25a1%25e5%25bc%258f)
 - [网盘PikPak在电脑&lpar;PC MAC&rpar;、手机、网页上传文件方式总结](https://www.tjsky.net/tutorial/503?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-503)
-- [AI作画工具 stable-diffusion-webui 一键安装工具（A1111-Web-UI-Installer）](https://www.tjsky.net/tutorial/498?pk_campaign=feed&pk_kwd=ai%25e4%25bd%259c%25e7%2594%25bb%25e5%25b7%25a5%25e5%2585%25b7-stable-diffusion-webui-%25e4%25b8%2580%25e9%2594%25ae%25e5%25ae%2589%25e8%25a3%2585%25e5%25b7%25a5%25e5%2585%25b7%25ef%25bc%2588a1111-web-ui-installer%25ef%25bc%2589)
 <!-- BLOG-POST-LIST:END -->
