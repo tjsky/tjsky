@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.tjsky.net/?feed＝rss2"
+          feed_list: "https://www.tjsky.net/?feed=rss2"
