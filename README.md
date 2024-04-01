@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [感觉我有硬盘杀手的被动技能，电脑硬盘又双叒叕坏了](https://www.tjsky.net/natter/903?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-903)
 - [本周槽点01](https://www.tjsky.net/natter/901?pk_campaign=feed&pk_kwd=%25e6%259c%25ac%25e5%2591%25a8%25e6%25a7%25bd%25e7%2582%25b901)
 - [使用 Langchain-Chatchat 构建自己的AI知识库](https://www.tjsky.net/ai/chatlm/893?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-893)
 - [必应也开始卷了呀 – 第一次收到必应的网站搜索情况月报](https://www.tjsky.net/natter/888?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p888)
 - [中文博客圈数据分析 – 开往](https://www.tjsky.net/news/858?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p858)
-- [【资讯】针对网站运维的供应链攻击 – 通过Mac破解软件与一键包传播](https://www.tjsky.net/tutorial/854?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-854)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
