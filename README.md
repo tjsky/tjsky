@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [【资讯】Telegram PC 桌面版高危漏洞，无需用户交互即可触发](https://www.tjsky.net/news/911?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-911)
 - [谷歌家AI Gemini 要开始收费了 – 看起来比OpenAI家的便宜呢](https://www.tjsky.net/ai/906?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-906)
 - [感觉我有硬盘杀手的被动技能，电脑硬盘又双叒叕坏了](https://www.tjsky.net/natter/903?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-903)
 - [本周槽点01](https://www.tjsky.net/natter/901?pk_campaign=feed&pk_kwd=%25e6%259c%25ac%25e5%2591%25a8%25e6%25a7%25bd%25e7%2582%25b901)
 - [使用 Langchain-Chatchat 构建自己的AI知识库](https://www.tjsky.net/ai/chatlm/893?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-893)
-- [必应也开始卷了呀 – 第一次收到必应的网站搜索情况月报](https://www.tjsky.net/natter/888?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p888)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
