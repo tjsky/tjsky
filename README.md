@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [阿里云盘要对第三方客户端和webdav挂载下手了](https://www.tjsky.net/news/927?pk_campaign=feed&pk_kwd=%25e9%2598%25bf%25e9%2587%258c%25e4%25ba%2591%25e7%259b%2598%25e8%25a6%2581%25e5%25af%25b9%25e7%25ac%25ac%25e4%25b8%2589%25e6%2596%25b9%25e5%25ae%25a2%25e6%2588%25b7%25e7%25ab%25af%25e5%2592%258cwebdav%25e6%258c%2582%25e8%25bd%25bd%25e4%25b8%258b%25e6%2589%258b%25e4%25ba%2586)
 - [常见免费、便宜域名注册渠道一览](https://www.tjsky.net/tutorial/922?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-922)
 - [开源封面图生成器工具 CoverView 的中文优化修改版](https://www.tjsky.net/tutorial/919?pk_campaign=feed&pk_kwd=%25e5%25bc%2580%25e6%25ba%2590%25e5%25b0%2581%25e9%259d%25a2%25e5%259b%25be%25e7%2594%259f%25e6%2588%2590%25e5%2599%25a8%25e5%25b7%25a5%25e5%2585%25b7-coverview-%25e7%259a%2584%25e4%25b8%25ad%25e6%2596%2587%25e4%25bc%2598%25e5%258c%2596%25e4%25bf%25ae%25e6%2594%25b9%25e7%2589%2588)
 - [记一次手机遗失后的处理过程](https://www.tjsky.net/natter/915?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e4%25b8%2580%25e6%25ac%25a1%25e6%2589%258b%25e6%259c%25ba%25e9%2581%2597%25e5%25a4%25b1%25e5%2590%258e%25e7%259a%2584%25e5%25a4%2584%25e7%2590%2586%25e8%25bf%2587%25e7%25a8%258b)
 - [【资讯】Telegram PC 桌面版高危漏洞，无需用户交互即可触发（ 4.16.8 版已修复）](https://www.tjsky.net/news/911?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-911)
-- [谷歌家AI Gemini 要开始收费了 – 看起来比OpenAI家的便宜呢](https://www.tjsky.net/ai/906?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-906)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
