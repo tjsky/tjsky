@@ -23,7 +23,7 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [知名静态资源CDN加速服务 Staticfile.org（与七牛云合作）发生供应链投毒，请尽快更换。](https://www.tjsky.net/news/992?pk_campaign=feed&pk_kwd=%25e7%259f%25a5%25e5%2590%258d%25e9%259d%2599%25e6%2580%2581%25e8%25b5%2584%25e6%25ba%2590cdn%25e5%258a%25a0%25e9%2580%259f%25e6%259c%258d%25e5%258a%25a1-staticfile-org%25ef%25bc%2588%25e4%25b8%258e%25e4%25b8%2583%25e7%2589%259b%25e4%25ba%2591%25e5%2590%2588%25e4%25bd%259c%25ef%25bc%2589%25e5%258f%2591%25e7%2594%259f)
+- [知名静态资源 JS 加速服务 Staticfile（与七牛云合作）发生供应链投毒，请尽快更换。](https://www.tjsky.net/news/992?pk_campaign=feed&pk_kwd=%25e7%259f%25a5%25e5%2590%258d%25e9%259d%2599%25e6%2580%2581%25e8%25b5%2584%25e6%25ba%2590cdn%25e5%258a%25a0%25e9%2580%259f%25e6%259c%258d%25e5%258a%25a1-staticfile-org%25ef%25bc%2588%25e4%25b8%258e%25e4%25b8%2583%25e7%2589%259b%25e4%25ba%2591%25e5%2590%2588%25e4%25bd%259c%25ef%25bc%2589%25e5%258f%2591%25e7%2594%259f)
 - [RTranslator –  一款 Android 开源离线本地实时同传翻译 APP](https://www.tjsky.net/ai/985?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-985)
 - [在 GitHub 中隐藏自己的邮箱地址](https://www.tjsky.net/tutorial/974?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-974)
 - [解决 Vercel 注册时提示 Your account requires further verification.](https://www.tjsky.net/tutorial/971?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-971)
