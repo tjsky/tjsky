@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Chrome 如何继续使用 uBlock Origin 等 Manifest V2 扩展](https://www.tjsky.net/tutorial/1009?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1009)
 - [解决绿色版 Chrome 打印预览失败问题](https://www.tjsky.net/tutorial/996?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-996)
 - [RTranslator –  一款 Android 开源离线本地实时同传翻译 APP](https://www.tjsky.net/ai/985?pk_campaign=feed&pk_kwd=https-www-tjsky-net-ai-985)
 - [在 GitHub 中隐藏自己的邮箱地址](https://www.tjsky.net/tutorial/974?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-974)
 - [解决 Vercel 注册时提示 Your account requires further verification.](https://www.tjsky.net/tutorial/971?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-971)
-- [使用 Memos 搭建轻博客（朋友圈）](https://www.tjsky.net/tutorial/950?pk_campaign=feed&pk_kwd=https-www-tjsky-net-p950)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
