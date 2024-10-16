@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Win10 / Win11 系统屏蔽驱动/补丁更新](https://www.tjsky.net/best-software/1034?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1034)
 - [独立博客自省问卷 15 题](https://www.tjsky.net/natter/1031?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1031)
 - [谁这么无聊啊，假期还折腾我的站](https://www.tjsky.net/natter/1029?pk_campaign=feed&pk_kwd=%25e8%25b0%2581%25e8%25bf%2599%25e4%25b9%2588%25e6%2597%25a0%25e8%2581%258a%25e5%2595%258a%25ef%25bc%258c%25e5%2581%2587%25e6%259c%259f%25e6%2594%25b9%25e6%258a%2598%25e8%2585%25be%25e5%2588%25ab%25e4%25ba%25ba%25e7%259a%2584%25e7%25ab%2599)
 - [近期大量个人博客被自动化繁体镜像搬运](https://www.tjsky.net/tutorial/1026?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1026)
 - [中华人民共和国住房和城乡建设部 GB / T 国标规范标准合集](https://www.tjsky.net/news/1020?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1020)
-- [Chrome 如何继续使用 uBlock Origin 等 Manifest V2 扩展](https://www.tjsky.net/tutorial/1009?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1009)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
