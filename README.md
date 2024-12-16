@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [WindowTabs： 让几乎一切 Windows 窗口支持多标签功能](https://www.tjsky.net/best-software/1070?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1070)
 - [一波多折的智能门锁购买与安装](https://www.tjsky.net/natter/1067?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1067)
 - [CloudCone VPS 2024年黑五闪购即将开始，新老用户可领取积分兑换奖励](https://www.tjsky.net/news/1055?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1055)
 - [【重磅消息】春节、劳动节的法定假期以后会各多1天](https://www.tjsky.net/news/1052?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1052)
 - [在今时今日 Follow 真的好用（了）吗？](https://www.tjsky.net/best-software/1046?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1046)
-- [我到底应该选多少键的键盘——机械键盘配列选择指南](https://www.tjsky.net/tutorial/1041?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1041)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
