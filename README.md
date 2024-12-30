@@ -23,7 +23,7 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [给博客增加 文章归档 和 年度统计 功能](https://www.tjsky.net/tutorial/1082?pk_campaign=feed&pk_kwd=%25e7%25bb%2599%25e5%258d%259a%25e5%25ae%25a2%25e5%25a2%259e%25e5%258a%25a0-%25e6%2596%2587%25e7%25ab%25a0%25e5%25bd%2592%25e6%25a1%25a3-%25e5%2592%258c-%25e5%25b9%25b4%25e5%25ba%25a6%25e7%25bb%259f%25e8%25ae%25a1-%25e5%258a%259f%25e8%2583%25bd)
+- [给博客增加 文章归档 和 年度统计 功能](https://www.tjsky.net/tutorial/1082?pk_campaign=feed&pk_kwd=https-www-tjsky-net-tutorial-1082)
 - [WindowTabs： 让几乎一切 Windows 窗口支持多标签功能](https://www.tjsky.net/best-software/1070?pk_campaign=feed&pk_kwd=https-www-tjsky-net-best-software-1070)
 - [一波多折的智能门锁购买与安装](https://www.tjsky.net/natter/1067?pk_campaign=feed&pk_kwd=https-www-tjsky-net-natter-1067)
 - [CloudCone VPS 2024年黑五闪购即将开始，新老用户可领取积分兑换奖励](https://www.tjsky.net/ubuntu/1055?pk_campaign=feed&pk_kwd=https-www-tjsky-net-news-1055)
