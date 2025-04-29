@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [GitHub 阻止中文用户访问了 吗？](https://www.tjsky.net/news/1156)
 - [WIN11更新后，C盘下莫名多出的神秘空文件夹inetpub不是BUG，不要删](https://www.tjsky.net/news/1147)
 - [Claw Cloud Run 免费容器来了，无需信用卡，Github账号满180天，终身每月送5$](https://www.tjsky.net/news/1143)
 - [谷歌这是在干啥？强制给我开个广告拦截收入挽回？](https://www.tjsky.net/natter/1138)
 - [如何快速批量检索损坏的图片文件—python开发学习笔记（一）](https://www.tjsky.net/tutorial/1136)
-- [DeepSeek R1 可免费/白嫖网页版一览](https://www.tjsky.net/ai/1130)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
