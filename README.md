@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [网站 TLS/SSL 证书自动化有多难：昨天网站通配符证书替换失败导致同域名下多个站点失联](https://www.tjsky.net/natter/1195)
 - [如何彻底禁用 Chrome 自动更新](https://www.tjsky.net/tutorial/1186)
 - [PikPak网盘免费加速服务自部署教程 – 基于Cloudflare Woker](https://www.tjsky.net/tutorial/1061)
 - [Bilibili、YouTube等视频网站频繁出现缓冲卡顿的解决方案](https://www.tjsky.net/windows/1170)
 - [如何正确拉取超大体积的git项目——开发小技巧](https://www.tjsky.net/tutorial/1163)
-- [GitHub 阻止中文用户访问了 吗？&lpar;附临时解决方案&rpar;](https://www.tjsky.net/news/1156)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
