@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Sora 邀请码接力](https://www.tjsky.net/best-software/1214)
 - [Chrome 140/141 版本如何解决“此扩展程序不再受支持，因此已停用” ，安装/启用 uBlock Origin 广告拦截等 MV2 版扩展程序](https://www.tjsky.net/tutorial/1207)
 - [[吐槽] 现在的AI爬虫怕不是疯了吧](https://www.tjsky.net/natter/1204)
 - [在右键菜单中为.py文件增加一个「用Python运行」的选项](https://www.tjsky.net/tutorial/1141)
 - [网站 TLS/SSL 证书自动化有多难：昨天网站通配符证书替换失败导致同域名下多个站点失联](https://www.tjsky.net/natter/1195)
-- [如何彻底禁用 Chrome 自动更新](https://www.tjsky.net/tutorial/1186)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
