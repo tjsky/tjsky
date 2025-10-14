@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 停止支持：十年陪伴，终有一别，再见Windows 10](https://www.tjsky.net/windows/1228)
 - [“拿着鸡毛当令箭”，是人性的弱点还是制度的必然？​](https://www.tjsky.net/natter/1223)
 - [博客无登录评论系统、留言系统，自动填写个人信息油猴脚本](https://www.tjsky.net/best-software/1218)
 - [Sora 邀请码接力](https://www.tjsky.net/best-software/1214)
 - [Chrome 140/141 版本如何解决“此扩展程序不再受支持，因此已停用” ，安装/启用 uBlock Origin 广告拦截等 MV2 版扩展程序](https://www.tjsky.net/tutorial/1207)
-- [[吐槽] 现在的AI爬虫怕不是疯了吧](https://www.tjsky.net/natter/1204)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
