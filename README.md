@@ -23,7 +23,7 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [PikPak 无法访问或访问卡顿问题解决–自动检测 PikPak 延迟最低 IP gong](https://www.tjsky.net/best-software/1253)
+- [PikPak 无法访问或访问卡顿问题解决–自动检测 PikPak 延迟最低 IP 工具](https://www.tjsky.net/best-software/1253)
 - [CloudCone VPS 2025年黑五闪购积分活动答案](https://www.tjsky.net/news/1249)
 - [Chrome升级小助手——快速检查你的浏览器扩展是否已支持新版Chrome](https://www.tjsky.net/best-software/1244)
 - [微软终于修复了上古bug——「更新并关机」等于「重启并更新」](https://www.tjsky.net/news/1239)
