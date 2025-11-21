@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [PikPak 无法访问或访问卡顿问题解决–自动检测 PikPak 延迟最低 IP gong](https://www.tjsky.net/best-software/1253)
 - [CloudCone VPS 2025年黑五闪购积分活动答案](https://www.tjsky.net/news/1249)
 - [Chrome升级小助手——快速检查你的浏览器扩展是否已支持新版Chrome](https://www.tjsky.net/best-software/1244)
 - [微软终于修复了上古bug——「更新并关机」等于「重启并更新」](https://www.tjsky.net/news/1239)
 - [飞机轮椅申请指南——乘飞机无障碍服务全流程解析](https://www.tjsky.net/natter/1234)
-- [Windows 10 停止支持：十年陪伴，终有一别，再见Windows 10](https://www.tjsky.net/windows/1228)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
