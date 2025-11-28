@@ -1,6 +1,6 @@
 ### Hi I`m 去年夏天 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjsky&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://githubcard.com/tjsky.svg?d=GwyxFBDP" alt="logo" height="500" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 一只纯业余的编程爱好者，略懂略懂  *Amateur programming enthusiast*
 
