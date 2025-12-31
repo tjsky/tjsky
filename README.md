@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [对抗刷流攻击：我是如何通过Nginx防御“绅士刷流”并拯救服务器性能的](https://www.tjsky.net/tutorial/1312)
 - [2025 年终总结：流量、爆款与一场主题更换引发的“血案”](https://www.tjsky.net/natter/1294)
 - [FreshRSS 自动更新订阅源失效排查：AutoTTL 扩展失效竟是 Docker 官方埋下的坑](https://www.tjsky.net/tutorial/1288)
 - [PikPak 无法访问或访问卡顿问题解决–自动检测 PikPak 延迟最低 IP 工具](https://www.tjsky.net/tutorial/1253)
 - [CloudCone VPS 2025年黑五闪购积分活动答案](https://www.tjsky.net/news/1249)
-- [Chrome升级小助手——快速检查你的浏览器扩展是否已支持新版Chrome](https://www.tjsky.net/best-software/1244)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
