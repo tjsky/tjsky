@@ -23,11 +23,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [告别 Logitech Options+ 臃肿！罗技驱动精简瘦身与替代全攻略](https://www.tjsky.net/windows/1324)
 - [VPS内存缩水排查：消失的 800MB 内存去哪了？](https://www.tjsky.net/ubuntu/1321)
 - [记一次“闹鬼”的故障：Windows 点击 Google 链接毫无反应，竟是安卓子系统 &lpar;WSA&rpar; 惹的祸？](https://www.tjsky.net/windows/1316)
 - [对抗刷流攻击：我是如何通过Nginx防御“绅士刷流”并拯救服务器性能的](https://www.tjsky.net/tutorial/1312)
 - [2025 年终总结：流量、爆款与一场主题更换引发的“血案”](https://www.tjsky.net/natter/1294)
-- [FreshRSS 自动更新订阅源失效排查：AutoTTL 扩展失效竟是 Docker 官方埋下的坑](https://www.tjsky.net/tutorial/1288)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
