@@ -6,6 +6,8 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: '20 * * * *'
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
