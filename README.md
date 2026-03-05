@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [大方承认用了AI辅助写作有多难？个人博客的AI羞耻与数字诚信](https://www.tjsky.net/natter/1409)
 - [拒绝自欺欺人！给博客文章加上 AI 创作等级标识 &lpar;附完整 PHP+CSS 代码）](https://www.tjsky.net/tutorial/1397)
 - [祝大家除夕快乐｜辞暮尔尔 烟火年年](https://www.tjsky.net/natter/1389)
 - [WordPress后台每天被爆破5000次？用 Nginx + PHP 让 WordPress 登录页“物理隐身”！](https://www.tjsky.net/tutorial/1381)
 - [少写一个 else，我的外链跳转页成了黑产眼中的“香饽饽”？重构一个安全的外链跳转页（附 PHP 源码）](https://www.tjsky.net/tutorial/1353)
-- [告别 Logitech Options+ 臃肿！罗技驱动精简瘦身与替代全攻略](https://www.tjsky.net/windows/1324)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
