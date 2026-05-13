@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [还在白嫖 CDN 和 数据统计？你的网站可能正在帮黑产“引流”赌球菠菜站](https://www.tjsky.net/tutorial/1536)
 - [Ubuntu 更新“卡死”惊魂记：揪出占用 apt 锁的“隐形罪魁祸首”！](https://www.tjsky.net/ubuntu/1521)
 - [彻底告别 Options+ 臃肿！开源驱动 Mouser 实测：这才是罗技鼠标该用的驱动](https://www.tjsky.net/best-software/1480)
 - [【资讯】离谱！某数字安全大厂 AI 客户端竟“附赠”自己泛域名的私钥？](https://www.tjsky.net/news/1451)
 - [拒绝祖传垃圾代码！适配前端静态缓存的 WordPress 防垃圾评论纯代码方案（附源码）](https://www.tjsky.net/tutorial/1440)
-- [忍痛割爱“负优化”腾讯云！年付不到200元，我换到了这台“真香”的香港前端机](https://www.tjsky.net/tutorial/1417)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
