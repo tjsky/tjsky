@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [拒绝算法绑架！「TabulaBili-Plus 」扩展：让 B 站个性化推荐算法“彻底失忆”一键回归纯净热门流](https://www.tjsky.net/best-software/1587)
 - [被 CloudCone 强制换 IP 邮件支配的夜晚：说好的自动化无缝丝滑切换呢](https://www.tjsky.net/tutorial/1580)
 - [连我的摸鱼吐槽都抄？围观独立博客圈最奇葩的“像素级搬运工”](https://www.tjsky.net/natter/1565)
 - [为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡](https://www.tjsky.net/natter/1557)
 - [藏了 13 年的 NGINX “上古漏洞” 一个问号就能远程拿下你的服务器](https://www.tjsky.net/tutorial/1546)
-- [还在白嫖 CDN 和 数据统计？你的网站可能正在帮黑产“引流”赌球菠菜站](https://www.tjsky.net/tutorial/1536)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
