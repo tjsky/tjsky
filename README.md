@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [别用“开源正义”道德绑架了！聊聊二次开发的开源协议、责任边界、人情世故](https://www.tjsky.net/natter/1613)
 - [毁灭吧，赶紧的：这个月净打补丁了。Linux 漏洞第5爆，Nginx 漏洞第2爆](https://www.tjsky.net/news/1597)
 - [拒绝算法绑架！「TabulaBili-Plus 」扩展：让 B 站个性化推荐算法“彻底失忆”一键回归纯净热门流](https://www.tjsky.net/best-software/1587)
 - [被 CloudCone 强制换 IP 邮件支配的夜晚：说好的自动化无缝丝滑切换呢](https://www.tjsky.net/tutorial/1580)
 - [连我的摸鱼吐槽都抄？围观独立博客圈最奇葩的“像素级搬运工”](https://www.tjsky.net/natter/1565)
-- [为什么独立博客越用心越容易放弃？如何在“纯粹记录”与“理直气壮恰饭”间找到平衡](https://www.tjsky.net/natter/1557)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
