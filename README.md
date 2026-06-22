@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [乾纲独断还是民主治理？聊聊博客聚合平台的治理悖论与无解之痛](https://www.tjsky.net/natter/1674)
 - [哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不](https://www.tjsky.net/news/1664)
 - [我写了个 Chrome 扩展「Smart Tab Pinner」解决标签页总被误关的问题](https://www.tjsky.net/best-software/1642)
 - [WordPress 又出上古Bug？你的 Feed 订阅源里面居然藏着一个博彩网站？！](https://www.tjsky.net/tutorial/1633)
 - [别用“开源正义”道德绑架了！聊聊二次开发的开源协议、责任边界、人情世故](https://www.tjsky.net/natter/1613)
-- [毁灭吧，赶紧的：这个月净打补丁了。Linux 漏洞第5爆，Nginx 漏洞第2爆](https://www.tjsky.net/news/1597)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
