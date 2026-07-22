@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [10小时预警的服务器搬家 vs 零通知重启全球服务器：低价 VPS 界的操作越来越离谱了](https://www.tjsky.net/natter/1726)
 - [YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！](https://www.tjsky.net/tutorial/1708)
 - [CloudCone的鬼才运营：提前 10 小时通知“机房物理搬迁”，还说不服不给退款？](https://www.tjsky.net/natter/1689)
 - [乾纲独断还是民主治理？聊聊博客聚合平台的治理悖论与无解之痛](https://www.tjsky.net/natter/1674)
 - [哪吒探针爆致命漏洞（CVE-2026-53519）大批 MJJ 中招！探针就该老老实实做监测好不](https://www.tjsky.net/news/1664)
-- [我写了个 Chrome 扩展「Smart Tab Pinner」解决标签页总被误关的问题](https://www.tjsky.net/best-software/1642)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
