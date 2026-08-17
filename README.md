@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [# DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了](https://www.tjsky.net/tutorial/1785)
 - [WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具](https://www.tjsky.net/ai/1765)
 - [“窗帘为什么是蓝色的？”：文学作品的最终解释权，到底归谁？](https://www.tjsky.net/natter/1751)
 - [10小时预警的服务器搬家 vs 零通知重启全球服务器：低价 VPS 界的操作越来越离谱了](https://www.tjsky.net/natter/1726)
 - [YouTube 无限重定向报错，谷歌账号身份验证无限失败，罪魁祸首居然是“已分区 cookie”？！](https://www.tjsky.net/tutorial/1708)
-- [CloudCone的鬼才运营：提前 10 小时通知“机房物理搬迁”，还说不服不给退款？](https://www.tjsky.net/natter/1689)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
