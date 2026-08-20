@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关](https://www.tjsky.net/best-software/1819)
 - [宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好](https://www.tjsky.net/tutorial/1792)
 - [DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了](https://www.tjsky.net/natter/1785)
 - [WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具](https://www.tjsky.net/ai/1765)
 - [“窗帘为什么是蓝色的？”：文学作品的最终解释权，到底归谁？](https://www.tjsky.net/natter/1751)
-- [10小时预警的服务器搬家 vs 零通知重启全球服务器：低价 VPS 界的操作越来越离谱了](https://www.tjsky.net/natter/1726)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
