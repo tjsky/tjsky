@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [给 memos 加个自动压缩图片为 Webp 的功能](https://www.tjsky.net/tutorial/1826)
-- [IDM 扩展老劫持下载、下载文件名乱码？我写了个小扩展让它按需开关](https://www.tjsky.net/best-software/1819)
-- [宝塔面板升级 13.0.0 后 Nginx 免费防火墙全是 undefined？替换两个文件就好](https://www.tjsky.net/tutorial/1792)
-- [DeepSeek 涨价后，业余个人开发者的 API 成本开始肉疼了](https://www.tjsky.net/natter/1785)
-- [WorkBuddy 一周体验：目前最适合普通人的本地办公 Agent 工具](https://www.tjsky.net/ai/1765)
+- [碎碎谈 · 8月27日 16:51](https://www.tjsky.net/shuoshuo/va2hnq6oijhwmgqad6ga7e)
+- [碎碎谈 · 8月26日 17:17](https://www.tjsky.net/shuoshuo/z5a374qaz2gonsrukegrzg)
+- [碎碎谈 · 8月25日 08:24](https://www.tjsky.net/shuoshuo/ijp2dbhfqqnsvgyggrc9mn)
+- [碎碎谈 · 8月21日 15:51](https://www.tjsky.net/shuoshuo/nxqj2lenuw9skcczpdzze8)
+- [bqFyZjT78YFKc5tjGnv8WJ](https://www.tjsky.net/shuoshuo/bqfyzjt78yfkc5tjgnv8wj)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
