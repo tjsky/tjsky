@@ -28,7 +28,7 @@
 - [碎碎谈 · 8月26日 17:17](https://www.tjsky.net/shuoshuo/z5a374qaz2gonsrukegrzg)
 - [碎碎谈 · 8月25日 08:24](https://www.tjsky.net/shuoshuo/ijp2dbhfqqnsvgyggrc9mn)
 - [碎碎谈 · 8月21日 15:51](https://www.tjsky.net/shuoshuo/nxqj2lenuw9skcczpdzze8)
-- [bqFyZjT78YFKc5tjGnv8WJ](https://www.tjsky.net/shuoshuo/bqfyzjt78yfkc5tjgnv8wj)
+- [给 memos 加个自动压缩图片为 Webp 的功能](https://www.tjsky.net/tutorial/1826)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
