@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [微软大刀部又来啦：Microsoft 365 家庭版”反向升级”变 6 人共享 2TB，合租车队连夜散伙咯](https://www.tjsky.net/news/2071)
 - [碎碎谈 · 10月8日 11:50](https://www.tjsky.net/shuoshuo/bkx6a5guj3pu3gm4ggnbi7)
 - [碎碎谈 · 9月27日 17:55](https://www.tjsky.net/shuoshuo/j9jldpwbbdrhgqvhsb3yv5)
 - [碎碎谈 · 9月21日 11:49](https://www.tjsky.net/shuoshuo/d6iofcapbngtqnvcqdlhpw)
 - [服务器 CPU 占用异常排查实录：从误杀 Wordfence 到抓出 FreshRSS 死循环](https://www.tjsky.net/tutorial/1971)
-- [升级 VMware Workstation 的九九八十一难：幽灵虚拟机、1603 报错和手工装 Tools](https://www.tjsky.net/tutorial/1938)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
