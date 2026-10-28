@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [宝塔 Nginx 免费防火墙 8.4 赶紧卸载吧：偷偷上传文件，凭据明文裸奔](https://www.tjsky.net/tutorial/2167)
+- [碎碎谈 · 10月28日 18:09](https://www.tjsky.net/shuoshuo/mcxesubu7e2gfpobpmyqhk)
+- [宝塔 Nginx 免费防火墙 8.4/8.5 赶紧卸载吧：偷偷上传文件，凭据明文裸奔](https://www.tjsky.net/tutorial/2167)
 - [碎碎谈 · 10月22日 18:38](https://www.tjsky.net/shuoshuo/n5czqgsdm6vciag9kfmeqd)
 - [毁灭吧，赶紧的：PHP 爆出 9.2 分”上古”RCE 漏洞，大家今晚 10 点熬夜打补丁吧](https://www.tjsky.net/news/2157)
 - [Nginx 防恶意解析失效了？2000 条拦截日志揪出 HTTPS 时代的默认站点陷阱](https://www.tjsky.net/tutorial/2139)
-- [碎碎谈 · 10月14日 14:57](https://www.tjsky.net/shuoshuo/lbmw9nzvg9dfaqy5h4hxxh)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
