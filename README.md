@@ -24,11 +24,11 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [碎碎谈 · 11月13日 11:37](https://www.tjsky.net/shuoshuo/cvtufjnstdrqoqmaek77ak)
 - [Win 11 开机启动项启动慢？改两个注册表值，5 分钟变 30 秒](https://www.tjsky.net/windows/2265)
 - [碎碎谈 · 11月9日 12:05](https://www.tjsky.net/shuoshuo/kwenq95hvbjcvounzinsxu)
 - [宝塔 Nginx 免费防火墙 8.5 更新了什么？改了 6 个字母 s 和一行注释，漏洞一个没动](https://www.tjsky.net/tutorial/2237)
 - [碎碎谈 · 10月30日 00:26](https://www.tjsky.net/shuoshuo/bnjnak69rfafs35ecqzeyr)
-- [碎碎谈 · 10月28日 18:09](https://www.tjsky.net/shuoshuo/mcxesubu7e2gfpobpmyqhk)
 <!-- BLOG-POST-LIST:END -->
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.tjsky.net%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.tjsky.net/feed)
